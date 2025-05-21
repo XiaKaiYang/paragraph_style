@@ -1,0 +1,10 @@
+{
+    "id": "paragraph-styler",
+    "name": "paragraph-styler",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "自动为预览模式下被<br>分割的段落，每一行都添加首行缩进！",
+    "author": "白洋",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
